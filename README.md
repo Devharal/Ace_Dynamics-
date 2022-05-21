@@ -3,6 +3,12 @@
 FrostHack Hackathon
 ![Screenshot 2022-05-21 182710](https://user-images.githubusercontent.com/90788942/169652568-1a829a20-9685-4b93-a529-a8a6eab35ea4.jpg)
 
+
+## Description
+
+Credit card fraud, act committed by any person who, with intent to defraud, uses a credit card that has been revoked, cancelled, reported lost, or stolen to obtain anything of value. Using the credit card number without possession of the actual card is also a form of credit card fraud. Through training by model I made ML model to make prediction regarding frauds. You need to give 30 transation details it will Predict. Particularly model is deployed on webstie using FLASK
+I also made a Website which will connect to main website. Link -https://gorgeous-zuccutto-7e5a36.netlify.app/
+
 ## PLatform
 <p >
         <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Github Stats" />
@@ -21,9 +27,7 @@ FrostHack Hackathon
    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=whit" alt="Github Stats" />
    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Github Stats" />
    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Github Stats" />
-   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="Github Stats" />
-   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="Github Stats" />
- 
+   
 </p>
 
 ## Deploying ML Model using Flask

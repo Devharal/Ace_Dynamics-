@@ -1,4 +1,5 @@
-# Ace_Dynamics-
+# Ace_Dynamics
+## Machine Learning to Predict Credit Card fraud
 FrostHack Hackathon
 ![Screenshot 2022-05-21 182710](https://user-images.githubusercontent.com/90788942/169652568-1a829a20-9685-4b93-a529-a8a6eab35ea4.jpg)
 
@@ -14,7 +15,7 @@ conda install flask=0.12.2  (or) pip install Flask==0.12.2
 
 ### Project Structure
 This project has four major parts :
-1. model.py - This contains code fot our Machine Learning model to predict employee salaries absed on trainign data in 'hiring.csv' file.
+1. ace-dynamics-fraud-detection.py - This contains code fot our Machine Learning model to predict employee salaries absed on trainign data in 'hiring.csv' file.
 2. app.py - This contains Flask APIs that receives employee details through GUI or API calls, computes the precited value based on our model and returns it.
 3. template - This folder contains the HTML template (index.html) to allow user to enter employee detail and displays the predicted employee salary.
 4. static - This folder contains the css folder with style.css file which has the styling required for out index.html file.

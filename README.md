@@ -3,6 +3,9 @@
 FrostHack Hackathon
 ![Screenshot 2022-05-21 182710](https://user-images.githubusercontent.com/90788942/169652568-1a829a20-9685-4b93-a529-a8a6eab35ea4.jpg)
 
+## PLatform
+https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white
+## Language Used-
 
 ## Deploying ML Model using Flask
 

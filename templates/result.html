@@ -3,7 +3,7 @@
   <head>
     <title></title>
     <link
-      href="https://fonts.googleapis.com/css2?family=Quicksand:wght@500&display=swap"
+      href="https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap"
       rel="stylesheet"
     />
     <link
@@ -16,7 +16,7 @@
     <header>
       <div class="container">
         <div id="brandname">
-          <h1 style="color: black">
+          <h1 style="color: rgb(255, 255, 255)">
           Credit Card Fraud Detection Results
           </h1>
         </div>
@@ -33,6 +33,7 @@
       </h1>
       {% elif prediction == 1 %}
       <h2 style="color: red">
+        <marquee>ALERT!</marquee>
           According to our model, this transaction is a Fraud transaction.
       </h2>
       {% endif %}

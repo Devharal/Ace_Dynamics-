@@ -1,6 +1,13 @@
 # Ace_Dynamics
 ## Machine Learning to Predict Credit Card fraud
 FrostHack Hackathon
+
+![download](https://user-images.githubusercontent.com/90788942/169682141-5387a807-4245-45b1-8de1-889134a0e9e7.png)
+
+
+
+
+# Website
 ![Screenshot 2022-05-21 182710](https://user-images.githubusercontent.com/90788942/169652568-1a829a20-9685-4b93-a529-a8a6eab35ea4.jpg)
 
 

@@ -17,6 +17,8 @@ Credit card fraud, act committed by any person who, with intent to defraud, uses
 I also made a Website which will connect to main website. Link -https://gorgeous-zuccutto-7e5a36.netlify.app/
 Presentation link  --https://www.canva.com/design/DAFBZY9Hhnk/IJJLMTLcvU8fy4XWJ-xK_A/view?utm_content=DAFBZY9Hhnk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton#10
 
+Video Describing Model - https://drive.google.com/file/d/1M1yrmjqw8XYajSGr9eigi67Y7ZcTKkuE/view?usp=sharing
+
 ## PLatform
 <p >
         <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Github Stats" />

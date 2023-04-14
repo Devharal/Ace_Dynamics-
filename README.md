@@ -15,7 +15,7 @@ FrostHack Hackathon
 
 Credit card fraud, act committed by any person who, with intent to defraud, uses a credit card that has been revoked, cancelled, reported lost, or stolen to obtain anything of value. Using the credit card number without possession of the actual card is also a form of credit card fraud. Through training by model I made ML model to make prediction regarding frauds. You need to give 30 transation details it will Predict. Particularly model is deployed on webstie using FLASK
 I also made a Website which will connect to main website. Link -https://curious-kitsune-44c4c3.netlify.app/
-Presentation link  --https://www.canva.com/design/DAFBZY9Hhnk/IJJLMTLcvU8fy4XWJ-xK_A/view?utm_content=DAFBZY9Hhnk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton#10
+Slides  -https://github.com/Devharal/Ace_Dynamics-/blob/858ea60f3599294b26b7a6942e31898a53289753/Presentation.pdf
 
 Video Describing Model - https://drive.google.com/file/d/1M1yrmjqw8XYajSGr9eigi67Y7ZcTKkuE/view?usp=sharing
 
